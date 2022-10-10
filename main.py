@@ -21,7 +21,7 @@ class InstagramBot:
 
 
 
-insta = InstagramBot("makertheproject07","god is great")
+insta = InstagramBot("Enter your username ","Enter your password")#Anna
 insta.login()
 insta.searchHashtag("Python")
 
